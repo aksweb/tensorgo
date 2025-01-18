@@ -1,5 +1,6 @@
 # Invoice Management and Mailing System
-
+   ``` by Abhishekh Singh (https://github.com/aksweb/tensorgo)```
+   
 This project is an Invoice Management and Mailing System that provides a comprehensive solution for managing invoices and sending automated email reminders for due payments. The project is divided into **Frontend** and **Backend** sections to ensure clarity and maintainability.
 
 ---
